@@ -6,7 +6,6 @@ Este repositório contém os códigos desenvolvidos durante a disciplina **Méto
 
 O repositório está organizado de acordo com os principais tópicos abordados durante a disciplina. Abaixo, você encontra uma breve descrição de cada um:
 
-- **Correlação e Regressão** 🔄: Análise da relação entre variáveis e construção de modelos para prever uma variável dependente com base em variáveis independentes.
 - **ANOVA (Análise de Variância)** 📊: Teste estatístico para comparar as médias de mais de dois grupos e determinar se existe uma diferença significativa entre eles.
 - **Regressão Linear Múltipla** 📉: Modelagem para prever uma variável dependente a partir de múltiplas variáveis independentes.
 - **Regressão Logística** 🔢: Técnica de modelagem para problemas de classificação, onde a variável dependente é binária.
