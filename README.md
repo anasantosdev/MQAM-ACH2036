@@ -12,9 +12,6 @@ O repositório está organizado de acordo com os principais tópicos abordados d
 - **Análise de Clusters** 🧑‍🤝‍🧑: Algoritmos de agrupamento de dados em clusters com base em características semelhantes.
 - **Análise Fatorial** 🔬: Técnica usada para reduzir a dimensionalidade dos dados e identificar fatores subjacentes a múltiplas variáveis observadas.
 
-## 📝 Contribuições
-Contribuições são sempre bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar uma pull request.
-
 ## 🔗 Dataset
 Os dados utilizados para essas análises estão disponíveis no [Kaggle: Brazilian Cities Dataset](https://www.kaggle.com/).  
 O conjunto de dados contém informações socioeconômicas e demográficas sobre as cidades brasileiras.
